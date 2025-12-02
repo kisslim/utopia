@@ -34,7 +34,7 @@ good. let's define payment cycle as two agents has dept to each other, one must 
 good. let's define company as agent do business by hiring and teaches employees
 ```
 
-``text
+```text
 good. let's define week government as agent that cannot be hired by anyone.
 ```
 
