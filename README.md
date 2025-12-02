@@ -41,3 +41,7 @@ good. let's define week government as agent that cannot be hired by anyone.
 ```text
 good. let's define government as week government that cannot be company.
 ```
+
+```text
+good. now define slave: with uncountable debt, ω_1
+```
