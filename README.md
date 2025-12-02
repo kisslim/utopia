@@ -23,7 +23,7 @@ good. now define teacher as someone with the ability to teach every agent except
 ```
 
 ```text
-good. now define hired state as agent has transfinite debt
+good. now define hired state as agent has transfinite debt.
 ```
 
 ```text
