@@ -27,7 +27,7 @@ good. now define hired state as agent has transfinite debt
 ```
 
 ```text
-good. let's define payment cycle as two agents has dept to each other, one must be finite, one must be transfinite.
+good. let's define payment cycle as two agents keep dept to each other, one must be finite, one must be transfinite.
 ```
 
 ```text
