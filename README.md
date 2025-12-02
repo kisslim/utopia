@@ -16,7 +16,7 @@ let's build social rules formally using second or higher order logic.
 3. each agent has a dept counting accumulator for every other agents using ordinals. when the accumulator is full-filled (the agent forget the exact counting), it turns into omega. then omega + 1, ...
 4. there exists a parameter for society called average helping value by one time, measured by money. this serves as a minimal currency amount (rather than legal one) and can pay dept immediately.
 5. for fundamental sequence of omega, the helper set the price to make every dept decreasable towards zero.
-```text
+```
 
 ```text
 good. now define teacher as someone with the ability to teach every agent except me. 
