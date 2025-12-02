@@ -13,7 +13,7 @@ let's build social rules formally using second or higher order logic.
 
 1. nobody can teach an autism like me, and i can teach nobody. other autism may have that ability to teach but never being taught by an non-autism. (treat autism as a property).
 2. if tom helps alice one time, alice get a dept counting of one. so does alice, and every agent.
-3. each agent has a dept counting accumulator for every other agents using ordinals. when the accumulator is full-filled (the agent forget the exact counting), it turns into omega. then omega + 1, ...
+3. each agent has a dept counting accumulator for every other agents using ordinals. when the accumulator is full-filled (the agent forget the exact counting), it turns into ω. then ω + 1, ... ε₀, ...
 4. there exists a parameter for society called average helping value by one time, measured by money. this serves as a minimal currency amount (rather than legal one) and can pay dept immediately.
 5. for fundamental sequence of omega, the helper set the price to make every dept decreasable towards zero.
 ```
