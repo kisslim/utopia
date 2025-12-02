@@ -19,11 +19,11 @@ let's build social rules formally using second or higher order logic.
 ```
 
 ```text
-good. now define teacher as someone with the ability to teach every agent except me. 
+good. let's define teacher as someone with the ability to teach every agent except me. 
 ```
 
 ```text
-good. now define hired state as agent has transfinite debt.
+good. let's define hired state as agent has transfinite debt.
 ```
 
 ```text
@@ -43,5 +43,5 @@ good. let's define government as week government that cannot be company.
 ```
 
 ```text
-good. now define slave: with uncountable debt, ω_1
+good. let's define slave: with uncountable debt, ω_1
 ```
