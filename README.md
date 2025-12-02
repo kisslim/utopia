@@ -31,7 +31,7 @@ good. let's define payment cycle as two agents keep dept to each other, one must
 ```
 
 ```text
-good. let's define company as agent does business by hiring and teaches employees
+good. let's define company as agent does business by hiring and teaches employees.
 ```
 
 ```text
