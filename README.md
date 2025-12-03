@@ -45,3 +45,14 @@ good. let's define government as week government that cannot be company.
 ```text
 good. let's define slave: with uncountable debt, ω_1
 ```
+
+```text
+good. now let's introduce epstemic logic by agency;
+every kid is an agent if they believe they are. every adult is an agent and they know they are.
+```
+
+```text
+good. let's talk further;
+for every being, no matter they are agent or not, if they know something they must believe it; for agents, if they believe, they know, thus creating falsy knowledges to protect themselves.
+```
+
